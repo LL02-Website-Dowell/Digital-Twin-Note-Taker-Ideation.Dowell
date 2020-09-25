@@ -181,13 +181,7 @@ header {
     margin: 0px;
   }
 }
-.site-title::before {
-content: url("/assets/images/logo.png");
-display: inline-block;
-position: relative;
-width: 32px;
-top: 32px;
-}
+
 
 #banner {
   z-index: 100;
@@ -224,6 +218,13 @@ top: 32px;
       background-color: #ffeca0;
     }
   }
+  .site-title::before {
+content: url("/assets/images/logo.png");
+display: inline-block;
+position: relative;
+width: 5px;
+top: 10px;
+}
 
   .fork {
     position:fixed;
