@@ -181,6 +181,13 @@ header {
     margin: 0px;
   }
 }
+.site-title::before {
+content: url("/assets/images/logo.png");
+display: inline-block;
+position: relative;
+width: 32px;
+top: 32px;
+}
 
 #banner {
   z-index: 100;
