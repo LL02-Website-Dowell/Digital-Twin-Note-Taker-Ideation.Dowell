@@ -84,11 +84,5 @@ Click here for registration [Registration Link](https://forms.gle/h9ExJmvgXoL923
 
 7. Prizes to be awarded based on performance in each task and overall performance in the project
 
-### FAQ
 
-Check out our [FAQ](https://github.com/contact) for frequently asked questions and answers .
-
-### Chat with our judges
-
-[Click here to chat with the coordinators of hackathon](https://l.ead.me/dowellhackathon1001)
 
