@@ -46,23 +46,35 @@ Click here for registration [Registration Link](https://forms.gle/h9ExJmvgXoL923
 
 ### Rules for executing task
 
-1. You have to do the task in github public repository created by dowell
+1. Note taking hologram is a Concept of Dowell for a live interaction meeting or similar sessions
 
-2. You have to branch the repository and contribute
+2. Hologram to be considered a digital identity like a member participating in a live event
 
-3. Development through forking will not be considered as participation
+3. Hologram is envisaged to hear the discussions in the meeting where it participates 
 
-4. Your rights will be granted as a team or individual to the repository
+4. Screenshots and voice recording to be done as and when required or continuously
 
-5. You have to put your contributions in code tab along with attachments
+5. Live notes as a verbatim to be prepared during the participation of the meeting with speaker identification and timestamp
 
-6. The issues to be informed or put in issues tab
+6. To be proposed as an app or avatar and the same will be invited as a live member in the meeting irrespective of meeting platforms
 
-7. Our judges will look into it and accept your commits to the master
+7. The task is required to be completed in github public repository created by dowell
 
-8. Duration-15 days
+8. Participants have to branch the repository and contribute
 
-9. Prize is distributed on participant basis irrespective of team or individual
+9. Development through forking will not be considered as participation
+
+10. Participant's rights will be granted as a team or individual to the repository
+
+11. Participant's have to put their contributions in code tab along with attachments
+
+12. The issues to be informed or put in issues tab
+
+13. Our judges will examine and then accept your commits to the master
+
+14. Duration-15 days
+
+15. Prize to be given out on participant basis irrespective of team or individual
 
 ### Rules for judgement
 
