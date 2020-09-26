@@ -1,123 +1,94 @@
----
-layout: default
----
+## Dowell Hackathon 1001
+We are conducting a hackathon on 'Digital Twin of Meeting Note Taker'.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Image of Yaktocat](https://raw.githubusercontent.com/LL07-Team-Dowell/Hackathon-1.0/gh-pages/test.png)
 
-[Link to another page](./another-page.html).
+### Digital Twin of Meeting Note Taker
+Note taking hologram is a Concept of Dowell for a live interaction meeting or similar sessions.
+Hologram will be considered a digital identity like a member participating in a live event.
+Hologram should hear the discussions in the meeting where it participates .
+Screenshots and voice recording will be done as and when required or continuosly.
+Live notes as a verbatim to be prepared during the participation of the meeting with speaker identification and timestamp.
+It can be an app or avatar, the same will be invited like a live member in the meeting irrespective of meeting platforms
 
-There should be whitespace between paragraphs.
+### Registration Rules
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1. Applicants with minimum education qualification of 10 + 2 can participate in hackathon
 
-# Header 1
+2. Maximum age limit of participants is 25 years
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+3. Minimum age limit of participants is 18 years
 
-## Header 2
+4. Participant should not be working as an employee or associating exclusively with any company
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+5. student,job seeker and non exclusive freelancers are eligible to participate
 
-### Header 3
+6. Participants can be from any country.The communicative language is English
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+7. Participants need have proper internet connection. ALong with the needed hardware and software support
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+8. Participants has to sign a non disclosure agreement
 
-#### Header 4
+9. Team of 2-5 or an individual can participate
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+10. Applications will be screened as per the criteria
 
-##### Header 5
+11. no payment required for registration and participation 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+12. No employee , freelancer  or intern from Dowell can participate
 
-###### Header 6
+13. You have to refer task page for the details and steps of hackathon 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+14. Refer the judgements criteria and the rewards in the assessment page
 
-### There's a horizontal rule below this.
+15. Copyrights/patents/licenses related to your contributions is our discretion
 
-* * *
+16. The task will be done in a public repositories under GNU/MIT liscence
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Click here for registration [Registration Link](https://forms.gle/h9ExJmvgXoL923k89).
 
 
-### Definition lists can be used with HTML syntax.
+### Rules for executing task
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. You have to do the task in github public repository created by dowell
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+2. You have to branch the repository and contribute
 
-```
-The final element.
-```
+3. Development through forking will not be considered as participation
+
+4. Your rights will be granted as a team or individual to the repository
+
+5. You have to put your contributions in code tab along with attachments
+
+6. The issues to be informed or put in issues tab
+
+7. Our judges will look into it and accept your commits to the master
+
+8. Duration-15 days
+
+9. Prize is distributed on participant basis irrespective of team or individual
+
+### Rules for judgement
+
+1. This is a contributory hackathon
+
+2. Participant's contribution will be judged on the basis of their participation and quantity of contribution
+
+3. The organizer's judgement is final
+
+4. Refer the Calculation template for more clarity on the judgement method
+
+5. Discontinuing attendees will be considered only upto the stage they have participated
+
+6. Only full attendees will be considered for the final assessment
+
+7. Prizes to be awarded based on performance in each task and overall performance in the project
+
+### FAQ
+
+Check out our [FAQ](https://github.com/contact) for frequently asked questions and answers .
+
+### Chat with our judges
+
+[Click here to chat with the coordinators of hackathon](https://l.ead.me/dowellhackathon1001)
+
