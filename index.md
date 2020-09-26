@@ -9,37 +9,39 @@ It can be an app or avatar, the same will be invited like a live member in the m
 
 ### Registration Rules
 
-1. Applicants with minimum education qualification of 10 + 2 can participate in hackathon
+1. Minimum education qualification- 12th/higher secondary passed
 
-2. Maximum age limit of participants is 25 years
+2. Maximum Age Limit- 25 years
 
-3. Minimum age limit of participants is 18 years
+3. Minimum Age Limit- 18 years
 
-4. Participant should not be working as an employee or associating exclusively with any company
+4. Eligible- Students / Job Seekers / non exclusive freelancers
 
-5. student,job seeker and non exclusive freelancers are eligible to participate
+5. Nationality- Any country . Communicative Language- English (Mandatory)
 
-6. Participants can be from any country.The communicative language is English
+6. Software and Hardware- Stable internet connection with a working PC/Desktop is a must
 
-7. Participants need have proper internet connection. ALong with the needed hardware and software support
+7. Agreement- Non-disclosure agreement to be signed with DoWell
 
-8. Participants has to sign a non disclosure agreement
+8. Number of participants- Team of 2-5 or an Individual
 
-9. Team of 2-5 or an individual can participate
+9. Applications will be screened as per the criteria
 
-10. Applications will be screened as per the criteria
+10. Registration and participation is totally free for participants.
 
-11. no payment required for registration and participation 
+11. Participants have to refer task page for the details and steps of Hackathon 
 
-12. No employee , freelancer  or intern from Dowell can participate
+12. The task to be performed in a public repositories under GNU/MIT license
 
-13. You have to refer task page for the details and steps of hackathon 
+13. Refer the Judging criteria and the rewards in the assessment page
 
-14. Refer the judgements criteria and the rewards in the assessment page
+14. Law of Singapore shall be applicable to all the participants irrespective of their nationality.
 
-15. Copyrights/patents/licenses related to your contributions is our discretion
+15. Copyrights/patents/licenses related to your contributions is our Sole discretion
 
-16. The task will be done in a public repositories under GNU/MIT liscence
+16. Not eligible- Workers / employees / exclusive freelancers of any company
+
+17. Employees, freelancers or interns from DoWell are not eligible to participate.
 
 Click here for registration [Registration Link](https://forms.gle/h9ExJmvgXoL923k89).
 
