@@ -4,8 +4,7 @@ We are conducting a hackathon on 'Digital Twin of Meeting Note Taker'.
 ![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker/blob/website/test.png?raw=true)
 
 ### Digital Twin of Meeting Note Taker
-Note taking hologram is a Concept of Dowell for a live interaction meeting or similar sessions.Hologram will be considered a digital identity like a member participating in a live event.Hologram should hear the discussions in the meeting where it participates.Screenshots and voice recording will be done as and when required or continuosly.Live notes as a verbatim to be prepared during the participation of the meeting with speaker identification and timestamp.
-It can be an app or avatar, the same will be invited like a live member in the meeting irrespective of meeting platforms
+A ‘Digital Twin Note taker’', is a concept of Dowell. It can be considered as a digital identity like a live member participating in a live interactive event/meeting/session irrespective of meeting platforms. This is to make a digital replica of the Note taker, who records the essence of the meeting as  and when required or continuously. It can be proposed as an app or a bot which will be invited as a live member in the meetings. It should be envisaged to hear and take verbatim notes with speaker identification and timestamps along with audio and video recording and screen shots / screen shares.
 
 ### Registration Rules
 
